@@ -1,8 +1,8 @@
 # Systems, Networks & Security
 
-A structured, open knowledge base for **study, research and development** across computer systems, networking and security — from foundations to research frontiers, with runnable labs.
+A structured, open knowledge base for **study, research and development** across computer systems, networking and security - from foundations to research frontiers, with runnable labs.
 
-> Notes, reading lists and labs are curated as I study and research. Contributions and corrections are welcome — see [CONTRIBUTING.md](./CONTRIBUTING.md).
+> Notes, reading lists and labs are curated as I study and research. Contributions and corrections are welcome - see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## How this repo is organised
 
