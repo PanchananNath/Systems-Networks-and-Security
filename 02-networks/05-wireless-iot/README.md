@@ -14,9 +14,13 @@ Low-power and short-range networks for devices.
 
 ## Key references
 
-- OASIS — *MQTT Version 5.0* specification
-- RFC 7252 (CoAP); LoRa Alliance — *LoRaWAN* specification
-- Bluetooth SIG — Core Specification
+- 📑 [MQTT Version 5.0 (OASIS)](https://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html)
+- 📑 [RFC 7252 — CoAP](https://www.rfc-editor.org/rfc/rfc7252)
+- 📑 [RFC 6550 — RPL](https://www.rfc-editor.org/rfc/rfc6550)
+- 📑 [RFC 4944 — 6LoWPAN](https://www.rfc-editor.org/rfc/rfc4944)
+- 📑 [LoRa Alliance (LoRaWAN)](https://lora-alliance.org/)
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

@@ -16,10 +16,14 @@ Security architecture and attack surface of modern cellular networks.
 
 ## Key references
 
-- 3GPP TS 33.501 — *Security architecture and procedures for 5G System*
-- Basin et al. — *A Formal Analysis of 5G Authentication* (CCS 2018)
-- Hussain et al. — *5GReasoner* (CCS 2019)
-- ENISA — *Threat Landscape for 5G Networks*
+- 📑 [3GPP TS 33.501 — Security architecture for the 5G System](https://www.3gpp.org/DynaReport/33501.htm)
+- 📄 [A Formal Analysis of 5G Authentication](https://doi.org/10.1145/3243734.3243846) — Basin et al. (CCS 2018)
+- 📄 [LTEInspector: Adversarial Testing of 4G LTE](https://doi.org/10.14722/ndss.2018.23313) — Hussain et al. (NDSS 2018)
+- 📄 [5GReasoner: Property-Directed Security and Privacy Analysis of 5G](https://doi.org/10.1145/3319535.3354263) — Hussain et al. (CCS 2019)
+- 📑 [ENISA Threat Landscape for 5G Networks](https://www.enisa.europa.eu/publications/enisa-threat-landscape-for-5g-networks)
+- 🛠 [Tamarin Prover](https://github.com/tamarin-prover/tamarin-prover)
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

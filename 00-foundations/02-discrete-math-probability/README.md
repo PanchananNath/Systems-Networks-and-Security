@@ -15,9 +15,12 @@ Math underpinning cryptography, queueing, performance modelling and ML-for-syste
 
 ## Key references
 
-- Lehman, Leighton, Meyer — *Mathematics for Computer Science* (MIT, free)
-- Harchol-Balter — *Performance Modeling and Design of Computer Systems*
-- Strang — *Introduction to Linear Algebra*
+- 🎓 [MIT 6.042J Mathematics for Computer Science (with free textbook)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/) — Lehman, Leighton, Meyer
+- 🎓 [MIT 6.041 Probabilistic Systems Analysis](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) — Tsitsiklis
+- 🎓 [MIT 18.06 Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) — Gilbert Strang
+- 📘 [Performance Modeling and Design of Computer Systems](https://doi.org/10.1017/CBO9781139226424) — Harchol-Balter · Cambridge University Press
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

@@ -1,0 +1,8 @@
+# Link-checker settings (https://github.com/lycheeverse/lychee)
+max_concurrency = 8
+max_retries = 3
+timeout = 30
+# Some publishers (ACM, IEEE, Elsevier) answer automated checkers with 403/429
+# even though the page works in a browser; treat those as reachable.
+accept = ["200..=299", "403", "429"]
+exclude_path = ["templates", "05-labs/_template"]

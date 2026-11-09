@@ -14,9 +14,13 @@ Networks inside the warehouse-scale computer.
 
 ## Key references
 
-- Al-Fares et al. — *A Scalable, Commodity Data Center Network Architecture* (SIGCOMM 2008)
-- Alizadeh et al. — *Data Center TCP (DCTCP)* (SIGCOMM 2010)
-- Singh et al. — *Jupiter Rising* (SIGCOMM 2015)
+- 📄 [A Scalable, Commodity Data Center Network Architecture](https://doi.org/10.1145/1402958.1402967) — Al-Fares et al. (SIGCOMM 2008)
+- 📄 [VL2: A Scalable and Flexible Data Center Network](https://doi.org/10.1145/1592568.1592576) — Greenberg et al. (SIGCOMM 2009)
+- 📄 [Data Center TCP (DCTCP)](https://doi.org/10.1145/1851182.1851192) — Alizadeh et al. (SIGCOMM 2010)
+- 📄 [Jupiter Rising](https://doi.org/10.1145/2785956.2787508) — Singh et al. (SIGCOMM 2015)
+- 📑 [RFC 7348 — VXLAN](https://www.rfc-editor.org/rfc/rfc7348)
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

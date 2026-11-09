@@ -14,9 +14,12 @@ Sharing machines safely and elastically.
 
 ## Key references
 
-- Barham et al. — *Xen and the Art of Virtualization* (SOSP 2003)
-- Verma et al. — *Large-scale cluster management at Google with Borg* (EuroSys 2015)
-- kubernetes.io documentation
+- 📄 [Xen and the Art of Virtualization](https://doi.org/10.1145/945445.945462) — Barham et al. (SOSP 2003)
+- 📄 [Large-scale cluster management at Google with Borg](https://doi.org/10.1145/2741948.2741964) — Verma et al. (EuroSys 2015)
+- 📄 [Firecracker: Lightweight Virtualization for Serverless Applications](https://www.usenix.org/conference/nsdi20/presentation/agache) — Agache et al. (NSDI 2020)
+- 🛠 [Kubernetes documentation](https://kubernetes.io/docs/home/)
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

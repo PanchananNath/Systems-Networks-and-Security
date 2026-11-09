@@ -15,9 +15,14 @@ Separating control from data plane and turning network functions into software.
 
 ## Key references
 
-- McKeown et al. — *OpenFlow: Enabling Innovation in Campus Networks* (CCR 2008)
-- Bosshart et al. — *P4: Programming Protocol-Independent Packet Processors* (CCR 2014)
-- Peterson et al. — *Software-Defined Networks: A Systems Approach* (free online)
+- 📘 [Software-Defined Networks: A Systems Approach (free)](https://sdn.systemsapproach.org/) — Peterson et al.
+- 📄 [OpenFlow: Enabling Innovation in Campus Networks](https://doi.org/10.1145/1355734.1355746) — McKeown et al. (CCR 2008)
+- 📄 [P4: Programming Protocol-Independent Packet Processors](https://doi.org/10.1145/2656877.2656890) — Bosshart et al. (CCR 2014)
+- 📄 [The Road to SDN](https://doi.org/10.1145/2602204.2602219) — Feamster, Rexford, Zegura (CCR 2014)
+- 🛠 [P4 tutorials](https://github.com/p4lang/tutorials)
+- 📑 [ETSI NFV](https://www.etsi.org/technologies/nfv)
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

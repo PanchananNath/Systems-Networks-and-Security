@@ -15,9 +15,14 @@ Languages used throughout the repo: C for systems, Rust for safe systems code, P
 
 ## Key references
 
-- Kernighan & Ritchie — *The C Programming Language*
-- *The Rust Programming Language* (doc.rust-lang.org/book)
-- Bryant & O'Hallaron — *Computer Systems: A Programmer's Perspective* (CS:APP)
+- 📘 [Computer Systems: A Programmer's Perspective (CS:APP)](https://csapp.cs.cmu.edu/) — Bryant & O'Hallaron · CMU
+- 🎓 [CMU 15-213 Introduction to Computer Systems](https://www.cs.cmu.edu/~213/) — Carnegie Mellon
+- 📘 [The Rust Programming Language](https://doc.rust-lang.org/book/) — official, free
+- 🛠 [Python Tutorial](https://docs.python.org/3/tutorial/) — official docs
+- 🛠 [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/) — Stroustrup & Sutter
+- 🎓 [Harvard CS50x](https://cs50.harvard.edu/x/) — Harvard
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

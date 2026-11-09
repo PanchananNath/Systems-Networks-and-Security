@@ -14,9 +14,14 @@ Tools to evaluate network ideas reproducibly.
 
 ## Key references
 
-- ns-3 documentation (nsnam.org)
-- Mininet walkthrough (mininet.org)
-- Wireshark user guide
+- 🛠 [ns-3 documentation](https://www.nsnam.org/documentation/)
+- 🛠 [Mininet](https://github.com/mininet/mininet)
+- 🛠 [Wireshark documentation](https://www.wireshark.org/docs/)
+- 🛠 [iperf3](https://github.com/esnet/iperf)
+- 🛠 [CAIDA datasets](https://www.caida.org/catalog/datasets/)
+- 🛠 [RIPE Atlas](https://atlas.ripe.net/)
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

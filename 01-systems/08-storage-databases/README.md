@@ -14,9 +14,12 @@ How data is laid out, indexed, and kept consistent.
 
 ## Key references
 
-- Petrov — *Database Internals*
-- Hellerstein, Stonebraker, Hamilton — *Architecture of a Database System* (2007)
-- CMU 15-445/645 — lectures and BusTub labs
+- 🎓 [CMU 15-445/645 Database Systems](https://15445.courses.cs.cmu.edu/) — Andy Pavlo · CMU
+- 📄 [Architecture of a Database System](https://doi.org/10.1561/1900000002) — Hellerstein, Stonebraker, Hamilton (2007)
+- 📘 [Readings in Database Systems (Red Book, free)](http://www.redbook.io/) — Bailis, Hellerstein, Stonebraker
+- 📘 [Database Internals](https://www.databass.dev/) — Alex Petrov
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

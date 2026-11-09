@@ -16,9 +16,15 @@ Cellular architecture from radio to core.
 
 ## Key references
 
-- 3GPP TS 23.501 — *System Architecture for the 5G System*
-- Peterson & Sunay — *5G Mobile Networks: A Systems Approach* (free online)
-- O-RAN Alliance specifications; ETSI MEC specifications
+- 📘 [5G Mobile Networks: A Systems Approach (free)](https://5g.systemsapproach.org/) — Peterson & Sunay
+- 📑 [3GPP TS 23.501 — System architecture for the 5G System](https://www.3gpp.org/DynaReport/23501.htm)
+- 📑 [O-RAN Alliance specifications](https://www.o-ran.org/specifications)
+- 📑 [ETSI Multi-access Edge Computing](https://www.etsi.org/technologies/multi-access-edge-computing)
+- 🛠 [Open5GS](https://github.com/open5gs/open5gs)
+- 🛠 [free5GC](https://github.com/free5gc/free5gc)
+- 🛠 [UERANSIM](https://github.com/aligungr/UERANSIM)
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

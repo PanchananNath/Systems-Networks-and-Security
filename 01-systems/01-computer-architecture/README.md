@@ -14,9 +14,13 @@ How hardware executes software — the base for performance, compilers and side-
 
 ## Key references
 
-- Hennessy & Patterson — *Computer Architecture: A Quantitative Approach*
-- Patterson & Hennessy — *Computer Organization and Design (RISC-V Edition)*
-- Bryant & O'Hallaron — *CS:APP*
+- 📘 [Computer Architecture: A Quantitative Approach, 7th ed.](https://shop.elsevier.com/books/computer-architecture/hennessy/978-0-443-15406-5) — Hennessy, Patterson, Kozyrakis
+- 📘 [Computer Organization and Design, RISC-V Edition, 2nd ed.](https://shop.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6) — Patterson & Hennessy
+- 🎓 [Computer Architecture (lectures + videos)](https://safari.ethz.ch/architecture/) — Onur Mutlu · ETH Zürich
+- 🎓 [MIT 6.823 Computer System Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/) — MIT OpenCourseWare
+- 🛠 [gem5 simulator](https://github.com/gem5/gem5)
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

@@ -14,9 +14,14 @@ Securing devices that are cheap, numerous and hard to patch.
 
 ## Key references
 
-- Antonakakis et al. — *Understanding the Mirai Botnet* (USENIX Security 2017)
-- Costin et al. — *A Large-Scale Analysis of the Security of Embedded Firmwares* (USENIX Security 2014)
-- OWASP IoT Top 10
+- 📄 [Understanding the Mirai Botnet](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/antonakakis) — Antonakakis et al. (USENIX Security 2017)
+- 📄 [A Large-Scale Analysis of the Security of Embedded Firmwares](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/costin) — Costin et al. (USENIX Security 2014)
+- 📑 [NIST IR 8259 IoT Device Cybersecurity Baseline](https://doi.org/10.6028/NIST.IR.8259)
+- 📑 [OWASP Internet of Things Project](https://owasp.org/www-project-internet-of-things/)
+- 🛠 [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
+- 🛠 [binwalk](https://github.com/ReFirmLabs/binwalk)
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

@@ -14,8 +14,12 @@ Measuring before optimising.
 
 ## Key references
 
-- Gregg — *Systems Performance* (2nd ed.)
-- Gregg — *BPF Performance Tools*
+- 📘 [Systems Performance, 2nd ed.](https://www.brendangregg.com/systems-performance-2nd-edition-book.html) — Brendan Gregg
+- 📘 [BPF Performance Tools](https://www.brendangregg.com/bpf-performance-tools-book.html) — Brendan Gregg
+- 🎓 [MIT 6.172 Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) — MIT OpenCourseWare
+- 🛠 [Flame Graphs](https://www.brendangregg.com/flamegraphs.html)
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

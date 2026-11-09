@@ -15,9 +15,13 @@ Protecting traffic and infrastructure.
 
 ## Key references
 
-- NIST SP 800-207 — *Zero Trust Architecture*
-- Zeek and Suricata documentation
-- Kurose & Ross — chapter on network security
+- 📑 [NIST SP 800-207 Zero Trust Architecture](https://doi.org/10.6028/NIST.SP.800-207)
+- 📄 [WireGuard: Next Generation Kernel Network Tunnel](https://www.wireguard.com/papers/wireguard.pdf) — Donenfeld (NDSS 2017)
+- 🛠 [Zeek](https://github.com/zeek/zeek)
+- 🛠 [Suricata](https://github.com/OISF/suricata)
+- 📑 [RFC 6480 — RPKI](https://www.rfc-editor.org/rfc/rfc6480)
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

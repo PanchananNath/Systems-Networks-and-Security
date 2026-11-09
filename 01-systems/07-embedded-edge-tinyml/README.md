@@ -15,9 +15,14 @@ Running software — and ML models — on constrained devices.
 
 ## Key references
 
-- Warden & Situnayake — *TinyML* (O'Reilly)
-- Lin et al. — *MCUNet: Tiny Deep Learning on IoT Devices* (NeurIPS 2020)
-- Zephyr and FreeRTOS documentation
+- 🎓 [MIT 6.5940 TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2024-fall-65940) — Song Han · MIT
+- 📘 [Machine Learning Systems (free)](https://mlsysbook.ai/) — Vijay Janapa Reddi · Harvard
+- 📄 [MCUNet: Tiny Deep Learning on IoT Devices](https://arxiv.org/abs/2007.10319) — Lin et al. (NeurIPS 2020)
+- 📄 [BranchyNet: Fast Inference via Early Exiting](https://arxiv.org/abs/1709.01686) — Teerapittayanon et al. (ICPR 2016)
+- 🛠 [TensorFlow Lite Micro](https://github.com/tensorflow/tflite-micro)
+- 🛠 [Zephyr RTOS docs](https://docs.zephyrproject.org/latest/)
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

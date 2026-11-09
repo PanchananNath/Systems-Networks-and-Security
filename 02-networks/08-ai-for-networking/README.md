@@ -14,8 +14,12 @@ Learning-based control and analytics for networks.
 
 ## Key references
 
-- Mao et al. — *Neural Adaptive Video Streaming with Pensieve* (SIGCOMM 2017)
-- Jay et al. — *A Deep Reinforcement Learning Perspective on Internet Congestion Control* (ICML 2019)
+- 📄 [Neural Adaptive Video Streaming with Pensieve](https://doi.org/10.1145/3098822.3098843) — Mao et al. (SIGCOMM 2017)
+- 📄 [A Deep RL Perspective on Internet Congestion Control (Aurora)](https://proceedings.mlr.press/v97/jay19a.html) — Jay et al. (ICML 2019)
+- 📄 [Outside the Closed World: On Using ML for Network Intrusion Detection](https://doi.org/10.1109/SP.2010.25) — Sommer & Paxson (IEEE S&P 2010)
+- 📄 [Dos and Don'ts of Machine Learning in Computer Security](https://www.usenix.org/conference/usenixsecurity22/presentation/arp) — Arp et al. (USENIX Security 2022)
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

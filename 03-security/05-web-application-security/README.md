@@ -14,8 +14,13 @@ The most common attack surface in practice.
 
 ## Key references
 
-- OWASP Top 10 and OWASP ASVS
-- PortSwigger — *Web Security Academy* (free)
+- 📑 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+- 📑 [OWASP Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/)
+- 🛠 [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
+- 🎓 [Web Security Academy (free labs)](https://portswigger.net/web-security) — PortSwigger
+- 📑 [RFC 6749 — OAuth 2.0](https://www.rfc-editor.org/rfc/rfc6749)
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

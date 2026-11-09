@@ -14,9 +14,11 @@ The layered model and the core mechanisms of packet networks.
 
 ## Key references
 
-- Kurose & Ross — *Computer Networking: A Top-Down Approach*
-- Peterson & Davie — *Computer Networks: A Systems Approach* (free online)
-- Tanenbaum & Wetherall — *Computer Networks*
+- 📘 [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php) — Kurose & Ross · UMass
+- 📘 [Computer Networks: A Systems Approach (free)](https://book.systemsapproach.org/) — Peterson & Davie
+- 🎓 [Stanford CS144 Introduction to Computer Networking](https://cs144.github.io/) — Stanford
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

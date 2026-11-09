@@ -14,9 +14,13 @@ Using many cores, nodes and GPUs at once.
 
 ## Key references
 
-- Grama et al. — *Introduction to Parallel Computing*
-- Hwu, Kirk, El Hajj — *Programming Massively Parallel Processors*
-- NVIDIA CUDA C++ Programming Guide; mpi-forum.org
+- 📘 [Programming Massively Parallel Processors, 4th ed.](https://shop.elsevier.com/books/programming-massively-parallel-processors/hwu/978-0-323-91231-0) — Hwu, Kirk, El Hajj · UIUC/NVIDIA
+- 🛠 [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/) — NVIDIA
+- 📑 [MPI Standard](https://www.mpi-forum.org/) — MPI Forum
+- 🛠 [HPC tutorials (MPI, OpenMP, Pthreads)](https://hpc.llnl.gov/documentation/tutorials) — Lawrence Livermore National Laboratory
+- 🛠 [Slurm documentation](https://slurm.schedmd.com/documentation.html)
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

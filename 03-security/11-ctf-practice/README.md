@@ -12,8 +12,12 @@ Deliberate practice through legal, sandboxed challenges.
 
 ## Key references
 
-- picoCTF, OverTheWire, pwn.college
-- CTFtime.org for events
+- 🎓 [picoCTF](https://picoctf.org/) — Carnegie Mellon
+- 🎓 [pwn.college](https://pwn.college/) — Arizona State University
+- 🎓 [OverTheWire wargames](https://overthewire.org/wargames/)
+- 🛠 [CTFtime (events)](https://ctftime.org/)
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

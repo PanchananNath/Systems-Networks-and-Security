@@ -15,9 +15,11 @@ Daily-driver skills for every lab in this repo.
 
 ## Key references
 
-- Shotts — *The Linux Command Line* (free)
-- Chacon & Straub — *Pro Git* (free, git-scm.com/book)
-- MIT — *The Missing Semester of Your CS Education* (free)
+- 🎓 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — MIT CSAIL
+- 📘 [The Linux Command Line (free edition)](https://linuxcommand.org/tlcl.php) — William Shotts
+- 📘 [Pro Git (free)](https://git-scm.com/book/en/v2) — Chacon & Straub
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

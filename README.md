@@ -1,8 +1,8 @@
 # Systems, Networks & Security
 
-A structured, open knowledge base for **study, research and development** across computer systems, networking and security - from foundations to research frontiers, with runnable labs.
+A structured, open knowledge base for **study, research and development** across computer systems, networking and security — from foundations to research frontiers, with runnable labs.
 
-> Notes, reading lists and labs are curated as I study and research. Contributions and corrections are welcome - see [CONTRIBUTING.md](./CONTRIBUTING.md).
+> Notes, reading lists and labs are curated as I study and research. Contributions and corrections are welcome — see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## How this repo is organised
 
@@ -73,6 +73,14 @@ Every topic folder has the same shape: **overview → core subjects (checklist) 
 | **Development** | Pick a lab in [05-labs](./05-labs/) or a *Lab ideas* item from any topic and build it. |
 
 See [ROADMAP.md](./ROADMAP.md) for what is being filled in next.
+
+## About the references
+
+References are limited to standard textbooks, courses from top universities (MIT, Stanford, CMU, Berkeley, ETH, Harvard, Princeton…), peer-reviewed papers from top venues, and official specifications. Papers link to their DOI, arXiv or publisher page; tools link to their official repository.
+
+Each reference is tagged: 📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs
+
+A [link-check workflow](./.github/workflows/link-check.yml) tests every link on each push and every Monday, so dead links get caught.
 
 ## Responsible use
 

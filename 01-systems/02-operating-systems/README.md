@@ -15,9 +15,13 @@ Abstractions that make hardware usable and safe to share.
 
 ## Key references
 
-- Arpaci-Dusseau — *Operating Systems: Three Easy Pieces* (OSTEP, free)
-- MIT 6.1810 (xv6) — course labs and the xv6 book
-- Love — *Linux Kernel Development*
+- 📘 [Operating Systems: Three Easy Pieces (free)](https://pages.cs.wisc.edu/~remzi/OSTEP/) — Arpaci-Dusseau · UW-Madison
+- 🎓 [MIT 6.1810 Operating System Engineering](https://pdos.csail.mit.edu/6.1810/) — MIT PDOS
+- 🛠 [xv6 (RISC-V) source](https://github.com/mit-pdos/xv6-riscv) — MIT
+- 🛠 [The Linux Kernel documentation](https://docs.kernel.org/)
+- 🛠 [eBPF documentation](https://ebpf.io/)
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

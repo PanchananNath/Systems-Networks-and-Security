@@ -16,10 +16,15 @@ From source (or a neural network) to efficient machine code.
 
 ## Key references
 
-- Cooper & Torczon — *Engineering a Compiler*
-- Lattner et al. — *MLIR: Scaling Compiler Infrastructure for Domain Specific Computation* (CGO 2021)
-- Chen et al. — *TVM: An Automated End-to-End Optimizing Compiler for Deep Learning* (OSDI 2018)
-- llvm.org/docs and mlir.llvm.org
+- 📘 [Engineering a Compiler, 3rd ed.](https://shop.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0) — Cooper & Torczon · Rice
+- 🎓 [Stanford CS143 Compilers](https://web.stanford.edu/class/cs143/) — Stanford
+- 📄 [MLIR: A Compiler Infrastructure for the End of Moore's Law](https://arxiv.org/abs/2002.11054) — Lattner et al. (CGO 2021)
+- 📄 [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://www.usenix.org/conference/osdi18/presentation/chen) — Chen et al. (OSDI 2018)
+- 🛠 [LLVM documentation](https://llvm.org/docs/)
+- 🛠 [MLIR documentation](https://mlir.llvm.org/)
+- 🛠 [IREE](https://github.com/iree-org/iree)
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 

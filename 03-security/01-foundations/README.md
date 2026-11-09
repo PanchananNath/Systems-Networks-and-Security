@@ -14,9 +14,13 @@ Principles and mindset that apply across every area.
 
 ## Key references
 
-- Anderson — *Security Engineering* (3rd ed.)
-- Shostack — *Threat Modeling: Designing for Security*
-- Saltzer & Schroeder — *The Protection of Information in Computer Systems* (1975)
+- 📘 [Security Engineering, 3rd ed.](https://www.cl.cam.ac.uk/~rja14/book.html) — Ross Anderson · Cambridge
+- 📄 [The Protection of Information in Computer Systems](https://doi.org/10.1109/PROC.1975.9939) — Saltzer & Schroeder (1975)
+- 🎓 [Stanford CS155 Computer and Network Security](https://cs155.stanford.edu/) — Stanford
+- 🎓 [UC Berkeley CS161 Computer Security (free textbook)](https://textbook.cs161.org/) — UC Berkeley
+- 📑 [NIST Cybersecurity Framework 2.0](https://doi.org/10.6028/NIST.CSWP.29) — NIST
+
+<sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 
 ## Lab ideas
 
