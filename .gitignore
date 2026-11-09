@@ -1,0 +1,36 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Build outputs
+build/
+dist/
+*.o
+*.so
+*.out
+
+# Data and captures (keep large files out of git)
+*.pcap
+*.pcapng
+*.ckpt
+*.pt
+*.onnx
+datasets/
+
+# Secrets
+.env
+*.pem
+*.key
+
+# Site build
+site/
