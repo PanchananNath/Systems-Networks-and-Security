@@ -20,7 +20,7 @@ Building reliable systems from unreliable, networked parts.
 - 📄 [Time, Clocks, and the Ordering of Events](https://doi.org/10.1145/359545.359563) — Lamport (CACM 1978)
 - 📄 [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf) — Lamport (2001)
 - 📄 [In Search of an Understandable Consensus Algorithm (Raft)](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro) — Ongaro & Ousterhout (USENIX ATC 2014)
-- 📄 [Practical Byzantine Fault Tolerance](https://pmg.csail.mit.edu/papers/osdi99.pdf) — Castro & Liskov (OSDI 1999)
+- 📄 [Practical Byzantine Fault Tolerance](https://www.usenix.org/conference/osdi-99/practical-byzantine-fault-tolerance) — Castro & Liskov (OSDI 1999)
 
 <sub>📘 book · 🎓 course · 📄 paper · 📑 spec/standard · 🛠 tool/docs</sub>
 

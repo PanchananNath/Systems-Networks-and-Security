@@ -34,3 +34,7 @@ datasets/
 
 # Site build
 site/
+
+# Link checker
+.lycheecache
+lychee/

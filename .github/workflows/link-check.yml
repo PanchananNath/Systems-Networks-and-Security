@@ -9,13 +9,46 @@ on:
     - cron: "0 3 * * 1"   # every Monday 03:00 UTC
   workflow_dispatch:
 
+permissions:
+  contents: read
+  issues: write
+
 jobs:
   lychee:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+
+      - name: Restore link cache
+        uses: actions/cache@v5
+        with:
+          path: .lycheecache
+          key: lychee-${{ github.sha }}
+          restore-keys: lychee-
+
       - name: Check links in all Markdown files
+        id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --config lychee.toml "./**/*.md"
-          fail: true
+          args: --config lychee.toml --cache --max-cache-age 3d "./**/*.md"
+          output: lychee/report.md
+          fail: false
+
+      - name: Find open report issue
+        id: find
+        if: steps.lychee.outputs.exit_code != 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: echo "number=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search 'in:title "Broken links report"' --json number --jq '.[0].number' || true)" >> "$GITHUB_OUTPUT"
+
+      - name: Open or update the "Broken links report" issue
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Broken links report
+          content-filepath: lychee/report.md
+          issue-number: ${{ steps.find.outputs.number }}
+
+      - name: Fail if any link is broken
+        if: steps.lychee.outputs.exit_code != 0
+        run: exit 1
